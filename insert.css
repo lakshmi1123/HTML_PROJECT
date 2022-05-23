@@ -1,0 +1,19 @@
+td {
+    height: 50px;
+    vertical-align: bottom;
+  }
+  th {
+    text-align: left;
+  }  
+   table, th, td {
+    border: 1px solid;
+  }
+  th {
+    background-color: yellow;
+  }  
+  table {
+    width: 100%;
+  }
+  table {
+    border-collapse: collapse;
+  } 
